@@ -21,7 +21,7 @@ This is an Application focused on Banking related events.
 
    5. Banking channel handling.
    
-   To checck the source codes visit the link <a href="https://github.com/abhishek-abhi/Banking_Application/tree/developer"><i>Click on this</i></a>
+   To check the source codes visit the link <a href="https://github.com/abhishek-abhi/Banking_Application/tree/developer"><i>Click on this</i></a>
    
    
 <hr><strong>Technologies and Tools used :</strong>
